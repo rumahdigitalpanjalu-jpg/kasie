@@ -1,0 +1,6 @@
+{
+  "name": "KasirPintar - POS & Real-Time Stok",
+  "description": "Aplikasi kasir modern dengan pencatatan transaksi real-time terintegrasi stok barang otomatis, cetak struk, dan laporan penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
